@@ -6,7 +6,7 @@
 
 <div>
 
-## 👀 &nbsp;Astrid96 
+## Im&nbsp;Astri
 #### I am a 16yo programmer, hello everyone 😁
 
 - I ❤️ to learn, develop, practice programs on the internet.
