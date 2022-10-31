@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/Astri96/astri96/main/profile.jpg" alt="astri96"/>
 <h1 align="center">
   Hi there!
-  <img width="45" src="https://raw.githubusercontent.com/Astri96/astri96/main/X5Nj.gif" alt="astri96"/>
+  <img width="40" src="https://raw.githubusercontent.com/Astri96/astri96/main/rpKqs.gif" alt="astri96"/>
 </h1>
 
 <div>
