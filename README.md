@@ -1,19 +1,19 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/Astri96/astri96/main/image/profile.jpg" alt="astri96"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/Astri96/astri96/main/profile.jpg" alt="astri96"/>
 <h1 align="center">
   Hi there!
-  <img width="45" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/image/joget.gif" alt="arugaz"/>
+  <img width="45" src="https://raw.githubusercontent.com/ArugaZ/ArugaZ/main/joget.gif" alt="astri96"/>
 </h1>
 
 <div>
 
-## 👀 &nbsp;ArugaZ
-#### I am a 17yo programmer, hope you all have good day 😃
+## 👀 &nbsp;Astrid96 
+#### I am a 16yo programmer, hello everyone 😁
 
-- I ❤️ to learn, develop and experiment with programs and awesome things on internet.
+- I ❤️ to learn, develop, practice programs on the internet.
 
-- I ❤️ to watch anime, read comic, and being cosplayer.
+- I ❤️ to watch anime, playing games and listening to music.
 
-- I ❤️ to connect with more people.
+- I ❤️ to make a friends with someone.
 
 </div>
 
