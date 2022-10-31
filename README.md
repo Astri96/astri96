@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yoga</h1>
+<h1 align="center">Hi 👋, I'm Astri</h1>
 <h3 align="center">I'm a programmer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
